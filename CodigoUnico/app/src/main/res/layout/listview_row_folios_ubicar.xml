@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id = "@+id/relativeLayout1"
+        android:layout_width = "fill_parent"
+        android:layout_height = "wrap_content"
+        android:background = "#F8C6C6C6" >
+
+        <TextView
+            android:id = "@+id/FolioUbic"
+            android:layout_width = "120dp"
+            android:layout_height = "match_parent"
+            android:layout_weight = "1"
+            android:background = "@drawable/cell_shape"
+            android:ellipsize = "end"
+            android:padding = "5dp"
+            android:text = "Folio"
+            android:textAlignment="center"
+            android:singleLine = "true" />
+        <!--android:text = "@string/sNo" -->
+
+        <TextView
+            android:id = "@+id/FacturaUbic"
+            android:layout_width = "140dp"
+            android:layout_height = "match_parent"
+            android:layout_weight = "2"
+            android:background = "@drawable/cell_shape"
+            android:ellipsize = "end"
+            android:padding = "5dp"
+            android:text = "Factura"
+            android:textAlignment="center"
+            android:singleLine = "true" />
+
+        <TextView
+            android:id = "@+id/OrigenUbic"
+            android:layout_width = "110dp"
+            android:layout_height = "match_parent"
+            android:layout_weight = "2"
+            android:background = "@drawable/cell_shape"
+            android:ellipsize = "end"
+            android:padding = "5dp"
+            android:text = "Origen"
+            android:textAlignment="center"
+            android:singleLine = "true" />
+
+        <TextView
+            android:id = "@+id/CantidadUbic"
+            android:layout_width = "80dp"
+            android:layout_height = "match_parent"
+            android:layout_weight = "1.5"
+            android:background = "@drawable/cell_shape"
+            android:ellipsize = "end"
+            android:padding = "5dp"
+            android:text = "Cantidad"
+            android:textAlignment="center"
+            android:singleLine = "true" />
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

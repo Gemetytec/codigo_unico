@@ -1,0 +1,33 @@
+package com.gemetytec.mmoreno.codigounico.Models
+
+data class CodigosUnico(
+    val Almacen: String,
+    val CodigoBarras: String,
+    val Consecutivo: String,
+    val DescripcionProducto: String,
+    val Escaneado: Int,
+    val EstadoCodigoUnico: Int,
+    val EstatusCodigo: Int,
+    val FechaJuliana: String,
+    val FechaModificacion: String,
+    val FechaRegistro: String,
+    val FolioEntrada: String,
+    val Id: Int,
+    val IdEntradaDetalle: Int,
+    val NoReimpresion: Int,
+    val Perdido: Int,
+    val Producto: String,
+    val ProductoId: Int,
+    val ReconteoCiclico: Int,
+    val RespuestaEstado: Boolean,
+    val TipoCodigo: String,
+    val TipoMovimiento: String,
+    val Ubicacion: String,
+    val UbicacionId: Int,
+    val UsuarioCreacion: String,
+    val UsuarioCreacionId: Int,
+    val UsuarioModificacion: String,
+    val UsuarioModificacionId: Int,
+    val Zona: String,
+    val ZonaId: Int
+)

@@ -1,0 +1,35 @@
+
+c
+java:S1192Z"HDefine a constant instead of duplicating this literal "#2aa204" 4 times.(•šè»úÿÿÿÿ
+
+java:S1319$"dThe type of "data" should be an interface such as "List" rather than the implementation "ArrayList".(Ô›ïÿÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ôõ™øÿÿÿÿ
+W
+java:S4973W"<Strings and Boxed types should be compared using "equals()".(­îÙıÿÿÿÿ
+R
+java:S4973Y"<Strings and Boxed types should be compared using "equals()".(ç“ã
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÒÎ
+q
+java:S14503"[Remove the "lastPosition" field and declare it as a local variable in the relevant methods.(°Şñ±
+r	java:S116 "XRename this field "CodigoProduct" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÿ’“ÿÿÿÿÿ
+w	java:S116 "]Rename this field "DescripcionProduct" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÿ’“ÿÿÿÿÿ
+t	java:S116 "ZRename this field "CantidadProduct" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÿ’“ÿÿÿÿÿ
+t	java:S116 "ZRename this field "RecibidoProduct" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÿ’“ÿÿÿÿÿ
+j
+java:S1659 "ODeclare "DescripcionProduct" and all following declarations on a separate line.(ûÿ’“ÿÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(üõ®ºùÿÿÿÿ
+S
+java:S18540"=Remove this useless assignment to local variable "dataModel".(æ¸«Õ
+D
+java:S14810".Remove this unused "dataModel" local variable.(æ¸«Õ
+P
+java:S1854H":Remove this useless assignment to local variable "result".(åİ¶À
+P
+java:S1854M":Remove this useless assignment to local variable "result".(åİ¶À
+A
+java:S1481<"+Remove this unused "result" local variable.(à¼âŞ
+C	java:S108W")Either remove or fill this block of code.(­îÙıÿÿÿÿ
+F
+java:S1068"+Remove this unused "dataSet" private field.(›Ò¡øÿÿÿÿ
+F
+java:S10683"0Remove this unused "lastPosition" private field.(°Şñ±

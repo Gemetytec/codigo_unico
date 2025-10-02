@@ -1,0 +1,21 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¤âøÿÿÿÿJ$6b34e0b9-87ad-4988-bae8-1cc97fcd4a77
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¤âøÿÿÿÿJ$6134dbf1-ef6c-4b72-84e9-cb1f5961aea3
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¤âøÿÿÿÿJ$8fb674c2-24a5-4c4b-a311-f8580d1db59b
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¤âøÿÿÿÿJ$d709b64f-84e9-46b6-aa4e-28e32b4902e1
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¤âøÿÿÿÿJ$a94d1a32-5427-49f3-9053-446af1e1830e
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¤âøÿÿÿÿJ$52bcf9ae-d129-4072-b08b-21202b374513
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¤âøÿÿÿÿJ$609000ca-c985-4ec9-ba5e-cbc22d471590
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÒÎJ$6fe9fbfc-361a-4011-ba30-477d48d5f3a9
+Œ	java:S116"QRename this field "Codigo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ë“ïJ$76d64148-5552-4d85-b30c-68af44e1a0d8
+‘	java:S116"VRename this field "Descripcion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÔ‰ôJ$72ddd0e7-b755-4fe1-baac-bfce04b0bba4
+“	java:S116	"SRename this field "Cantidad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÍúÆûÿÿÿÿJ$e47ddfe2-f816-4ade-b5ec-907ce1b2abb2
+“	java:S116
+"SRename this field "Recibido" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÐÍ¢úÿÿÿÿJ$6e5ecaa7-118a-4370-b747-3ae06ba3d063
+™	java:S116"YRename this field "Producto_Datos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹–‰ùÿÿÿÿJ$d90c6fa6-4e78-4288-aab6-7213db0472f7
+•	java:S116"URename this field "ProductoId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹÷ø€úÿÿÿÿJ$725d1eb5-d1ee-466a-a36e-03f55062f590
+›	java:S116"[Rename this field "IdDetalleEntrada" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýùèŽúÿÿÿÿJ$d1e116fc-713d-4592-8a03-33bb1a6bb10e
+’	java:S116"RRename this field "Ubicada" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å­™¬üÿÿÿÿJ$58f80c77-7e34-4c6a-afe7-e1f90b5e04f5
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôôËîJ$7cc3a94a-35fa-4668-a4a2-2c9fce5382d5
+
+java:S1128">Remove this unused import 'org.jetbrains.annotations.NotNull'.(éš®ïøÿÿÿÿJ$5a39005b-3b71-4ac1-af2b-e57a4631b6ad

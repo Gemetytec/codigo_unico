@@ -1,0 +1,9 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ƒ¸øÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ƒ¸øÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÃôÙâüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÒÎ
+p	java:S116"[Rename this field "IdAlmacen_Selecc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÏæ
+s	java:S116"YRename this field "Almacen_Selecc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óçĞ±ûÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßôùßÿÿÿÿÿ

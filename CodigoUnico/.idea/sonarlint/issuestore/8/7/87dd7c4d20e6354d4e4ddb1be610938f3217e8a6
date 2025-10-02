@@ -1,0 +1,46 @@
+
+Pkotlin:S1172³"2Use "_" instead of these unused lambda parameters.(ù»è‚øÿÿÿÿ
+Jkotlin:S1172q"2Use "_" instead of these unused lambda parameters.(®ç•õ
+Pkotlin:S1172¼"2Use "_" instead of these unused lambda parameters.(ê±ïúÿÿÿÿ
+Pkotlin:S1172„"2Use "_" instead of these unused lambda parameters.(¶µ—Îşÿÿÿÿ
+Qkotlin:S1172ù"8Use "_" instead of this unused lambda parameter "event".(º—¨è
+Kkotlin:S1172ş"2Use "_" instead of these unused lambda parameters.(º—¨è
+9kotlin:S6615·" Remove this useless initializer.(¢ƒ—˜
+Pkotlin:S6619™"7Remove this useless non-null check, it always succeeds.(óèƒ
+Ukotlin:S6619V">Remove this useless non-null assertion !!, it always succeeds.(Ô‘E
+Vkotlin:S6619W">Remove this useless non-null assertion !!, it always succeeds.(¨âÎ¥
+[kotlin:S6619X">Remove this useless non-null assertion !!, it always succeeds.(àï‰øÿÿÿÿ
+[kotlin:S6619Y">Remove this useless non-null assertion !!, it always succeeds.(İõö™úÿÿÿÿ
+[kotlin:S6619Z">Remove this useless non-null assertion !!, it always succeeds.(²´¾šúÿÿÿÿ
+6kotlin:S125"Remove this commented out code.(Ìb
+7kotlin:S125á"Remove this commented out code.(­§„–
+<kotlin:S125ï"Remove this commented out code.(¦íçÔÿÿÿÿÿ
+7kotlin:S125„"Remove this commented out code.(¶Ì˜‘
+<kotlin:S125Ç"Remove this commented out code.(Ò‹¤ıÿÿÿÿ
+ekotlin:S117"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ã›¯í
+kkotlin:S117´"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ê°ƒåıÿÿÿÿ
+kkotlin:S117¡"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ëõµÄùÿÿÿÿ
+kkotlin:S117¡"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ëõµÄùÿÿÿÿ
+kkotlin:S117¡"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ëõµÄùÿÿÿÿ
+ekotlin:S117É"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ŞÈÆ0
+ekotlin:S117É"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ŞÈÆ0
+kkotlin:S117†"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(šÌÑ­
+pkotlin:S117‡"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ª—èÿÿÿÿÿ
+kkotlin:S117‰"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Àù€Í
+kkotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(°“ƒ°
+kkotlin:S117Ğ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(šÌÑ­
+pkotlin:S117Ñ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ª—èÿÿÿÿÿ
+pkotlin:S117Ó"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ìƒƒùÿÿÿÿ
+kkotlin:S117Ô"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(×üÑİ
+pkotlin:S117Õ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¹ç“·øÿÿÿÿ
+pkotlin:S117Ù"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ç›³‚şÿÿÿÿ
+kkotlin:S117·"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¢ƒ—˜
+kkotlin:S117º"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(êÃûê
+pkotlin:S117¿"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ó¶Ëşÿÿÿÿ
+pkotlin:S117À"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Å©“õûÿÿÿÿ
+pkotlin:S117Á"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(â¦¡èşÿÿÿÿ
+jkotlin:S117Ô"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÄŠı9
+pkotlin:S117Š"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ÿ£ÅĞûÿÿÿÿ
+pkotlin:S117‹"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ğ¡‹€øÿÿÿÿ
+pkotlin:S117ğ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ï¹Œùÿÿÿÿ
+Vkotlin:S6511"=Merge chained "if" statements into a single "when" statement.(¬¨Â§

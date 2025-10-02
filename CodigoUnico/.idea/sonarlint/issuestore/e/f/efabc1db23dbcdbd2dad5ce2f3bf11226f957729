@@ -1,0 +1,46 @@
+
+vkotlin:S1172«"2Use "_" instead of these unused lambda parameters.(ù»è‚øÿÿÿÿJ$e530de92-478c-4d5d-b646-dbab1a8e4b9e
+pkotlin:S1172q"2Use "_" instead of these unused lambda parameters.(®ç•õJ$9f125f00-c3e3-4162-b47c-f211a506dd3c
+vkotlin:S1172´"2Use "_" instead of these unused lambda parameters.(ê±ïúÿÿÿÿJ$8593b892-5d5b-4428-8d5f-8a326cc87d5c
+vkotlin:S1172ı"2Use "_" instead of these unused lambda parameters.(¶µ—ÎşÿÿÿÿJ$d0036030-5879-4166-9698-3323aa07e866
+wkotlin:S1172ø"8Use "_" instead of this unused lambda parameter "event".(º—¨èJ$11359aab-9689-42d3-af22-b7ce5a3209a9
+_kotlin:S6615¶" Remove this useless initializer.(¢ƒ—˜J$3d6fd885-c39e-459e-ad7b-6520be991341
+Wkotlin:S6619‘"7Remove this useless non-null check, it always succeeds.(óèƒ8ÁÕı·²2
+\kotlin:S6619W">Remove this useless non-null assertion !!, it always succeeds.(Ô‘E8ÄÕı·²2
+]kotlin:S6619X">Remove this useless non-null assertion !!, it always succeeds.(¨âÎ¥8ÅÕı·²2
+bkotlin:S6619Y">Remove this useless non-null assertion !!, it always succeeds.(àï‰øÿÿÿÿ8ÆÕı·²2
+bkotlin:S6619Z">Remove this useless non-null assertion !!, it always succeeds.(İõö™úÿÿÿÿ8ÇÕı·²2
+bkotlin:S6619[">Remove this useless non-null assertion !!, it always succeeds.(²´¾šúÿÿÿÿ8ÇÕı·²2
+\kotlin:S125"Remove this commented out code.(ÌbJ$f9175bc9-e57e-49a4-bacb-9479b8c249a7
+]kotlin:S125à"Remove this commented out code.(­§„–J$76cf2a32-5993-4a29-ba1c-3f1de5b8ac7f
+bkotlin:S125î"Remove this commented out code.(¦íçÔÿÿÿÿÿJ$436f5314-e32c-4c05-beb9-0cdafaf01013
+]kotlin:S125ü"Remove this commented out code.(¶Ì˜‘J$9bb9bb8e-0cf7-4b60-a3df-08f9efeab53f
+bkotlin:S125¿"Remove this commented out code.(Ò‹¤ıÿÿÿÿJ$2d0b66bd-d76f-4a06-868c-f4394c30fd05
+‹kotlin:S117~"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ã›¯íJ$8bf9434b-1dd3-4fbf-aa80-0095d1daba4c
+‘kotlin:S117³"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ê°ƒåıÿÿÿÿJ$1b45aa17-ffb5-4eb9-af55-433b643676ed
+‘kotlin:S117š"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ëõµÄùÿÿÿÿJ$044bbe34-50cf-4986-87ec-8e64586473ad
+‘kotlin:S117š"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ëõµÄùÿÿÿÿJ$58b950eb-8eab-4db8-bcd1-f0b8cbb01fae
+‘kotlin:S117š"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ëõµÄùÿÿÿÿJ$719d6e02-1567-4202-b8d3-45d172bf26b4
+‘kotlin:S117Á"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(”Ó†¯ıÿÿÿÿJ$2ba811eb-560a-4ee9-b90d-c4eb0985d5ac
+‘kotlin:S117Á"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(”Ó†¯ıÿÿÿÿJ$bfd0b71b-b8bc-4129-8d14-e68656cd42c2
+‘kotlin:S117…"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(šÌÑ­J$4fbc848c-e97b-446a-bdf7-aa2477d59829
+–kotlin:S117†"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ª—èÿÿÿÿÿJ$7163d5df-28bb-4ee9-b400-104173f2a6bf
+‘kotlin:S117ˆ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÀÁËßJ$441077c7-c286-4649-988e-aec98233918d
+‘kotlin:S117Œ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(°“ƒ°J$3aa110c0-9015-4930-9b6f-647d5132b3a9
+‘kotlin:S117È"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(šÌÑ­J$f57785ae-6ade-4b9c-b4c6-ebe5e24e4736
+–kotlin:S117É"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ª—èÿÿÿÿÿJ$f0065e99-18d9-4c5c-8129-b0f9f399b380
+‘kotlin:S117Ë"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ûé™™J$5fc108e6-24d8-4365-a6e1-a2b6aad154fc
+‘kotlin:S117Ì"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(×üÑİJ$e531716c-b7d3-49f6-b747-da2e6a9d8fed
+–kotlin:S117Í"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¹ç“·øÿÿÿÿJ$de1542ba-0686-4fa4-b93d-26bf60c719bd
+–kotlin:S117Ñ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ç›³‚şÿÿÿÿJ$ba3114ca-f19c-494f-8418-f1ed3360674c
+‘kotlin:S117¶"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¢ƒ—˜J$155a66c9-b7f7-448f-b168-09970ad00222
+‘kotlin:S117¹"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(êÃûêJ$9d70cbb6-670a-4f02-b81b-0d874f72cfd3
+–kotlin:S117¾"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ó¶ËşÿÿÿÿJ$ccfd8b4e-298f-42f8-995f-462dd0616763
+–kotlin:S117¿"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Å©“õûÿÿÿÿJ$fe41f5f1-c03e-4ea1-9cdc-cdae68fef7fa
+–kotlin:S117À"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(â¦¡èşÿÿÿÿJ$b4986039-510c-4dae-9054-635214be9549
+–kotlin:S117Ì"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÄÃÅ™üÿÿÿÿJ$21ba0414-a3f8-4198-b956-a1d13845fc9b
+–kotlin:S117ƒ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ÿ£ÅĞûÿÿÿÿJ$4480e09c-0df3-471b-bdda-a0fd753d1429
+–kotlin:S117„"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ïÁïˆùÿÿÿÿJ$ad1a7206-de24-48c1-8b60-30df82b0c09a
+–kotlin:S117è"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(İïä”ùÿÿÿÿJ$4397d8eb-a856-4ad9-bf54-80b96383480e
+>kotlin:S1128"Remove this unused import.(Å¢îøÿÿÿÿ8¬Öı·²2
+|kotlin:S6511•"=Merge chained "if" statements into a single "when" statement.(¬¨Â§J$50449538-75c8-49a5-85fe-2b869c607cde

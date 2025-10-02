@@ -1,0 +1,31 @@
+
+^
+java:S1192S"HDefine a constant instead of duplicating this literal "#2aa204" 3 times.(ûÎ©ñ
+c
+java:S1192O"HDefine a constant instead of duplicating this literal "#737373" 3 times.(Õü‰šúÿÿÿÿ
+
+java:S1319"dThe type of "data" should be an interface such as "List" rather than the implementation "ArrayList".(Ã¾à§ûÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶Áî 
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÒÎ
+q
+java:S1450,"[Remove the "lastPosition" field and declare it as a local variable in the relevant methods.(°Şñ±
+q	java:S116"WRename this field "CodigoBarras" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ÷µ°ûÿÿÿÿ
+p	java:S116"VRename this field "NoImpresion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ÷µ°ûÿÿÿÿ
+l	java:S116"RRename this field "Estatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ÷µ°ûÿÿÿÿ
+c
+java:S1659"HDeclare "NoImpresion" and all following declarations on a separate line.(œ÷µ°ûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(üõ®ºùÿÿÿÿ
+X
+java:S1854)"=Remove this useless assignment to local variable "dataModel".(ù£‡ìşÿÿÿÿ
+I
+java:S1481)".Remove this unused "dataModel" local variable.(ù£‡ìşÿÿÿÿ
+P
+java:S1854@":Remove this useless assignment to local variable "result".(åİ¶À
+P
+java:S1854E":Remove this useless assignment to local variable "result".(åİ¶À
+A
+java:S14815"+Remove this unused "result" local variable.(à¼âŞ
+A
+java:S1068"+Remove this unused "dataSet" private field.(¸î¶¶
+F
+java:S1068,"0Remove this unused "lastPosition" private field.(°Şñ±

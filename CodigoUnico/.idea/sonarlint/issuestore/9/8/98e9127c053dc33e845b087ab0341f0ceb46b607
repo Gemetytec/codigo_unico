@@ -1,0 +1,47 @@
+
+Pkotlin:S1172¶"2Use "_" instead of these unused lambda parameters.(ù»è‚øÿÿÿÿ
+Qkotlin:S1172\"4Use "_" instead of this unused lambda parameter "v".(Òä¿€ùÿÿÿÿ
+Lkotlin:S1172n"4Use "_" instead of this unused lambda parameter "v".(‚ïÚ
+Pkotlin:S1172¿"2Use "_" instead of these unused lambda parameters.(ê±ïúÿÿÿÿ
+9kotlin:S6615Ÿ" Remove this useless initializer.(è—–Ò
+Pkotlin:S6619×"7Remove this useless non-null check, it always succeeds.(óèƒ
+7kotlin:S125"Remove this commented out code.(¯¾®æ
+<kotlin:S125Ê"Remove this commented out code.(Ò‹¤ıÿÿÿÿ
+6kotlin:S125„"Remove this commented out code.(Ìb
+7kotlin:S125ó"Remove this commented out code.(×Âô
+7kotlin:S125«"Remove this commented out code.(…¾ùÀ
+kkotlin:S117ì"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(°ÅÀÕşÿÿÿÿ
+kkotlin:S117ì"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(°ÅÀÕşÿÿÿÿ
+ekotlin:S117¯"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÑîÌV
+ekotlin:S117¯"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÑîÌV
+fkotlin:S117œ"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ë«
+kkotlin:S117ñ"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¿†ÙÆùÿÿÿÿ
+kkotlin:S117ó"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(šÌÑ­
+kkotlin:S117ô"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Úığ„
+pkotlin:S117ö"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(üƒ÷şÿÿÿÿ
+pkotlin:S117÷"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( Ò‡—üÿÿÿÿ
+pkotlin:S117ù"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(øĞÍ ıÿÿÿÿ
+kkotlin:S117ı"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¦ÍÇ¶
+kkotlin:S117í"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(šÌÑ­
+kkotlin:S117î"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(÷şš®
+kkotlin:S117ğ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Õë¹¼
+kkotlin:S117ô"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Î¨™‘
+kkotlin:S117´"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(šÌÑ­
+kkotlin:S117µ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Úığ„
+pkotlin:S117·"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(üƒ÷şÿÿÿÿ
+pkotlin:S117¸"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( Ò‡—üÿÿÿÿ
+pkotlin:S117º"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(øĞÍ ıÿÿÿÿ
+kkotlin:S117¾"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¦ÍÇ¶
+kkotlin:S117Ÿ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(è—–Ò
+pkotlin:S117£"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ªıãıÿÿÿÿ
+pkotlin:S117€"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(‘ƒÚßùÿÿÿÿ
+pkotlin:S117ª"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(‘ƒÚßùÿÿÿÿ
+Lkotlin:S1144í".Remove this unused private "showError" method.(¤ìçÌüÿÿÿÿ
+Skotlin:S1144ñ"5Remove this unused private "ConexionInternet" method.(¿†ÙÆùÿÿÿÿ
+Hkotlin:S1144Ç"/Remove this unused private "restartApp" method.(Å¯äş
+7kotlin:S1128"Remove this unused import.(Ó”¾øÿÿÿÿ
+ukotlin:S1192ó"\Define a constant instead of duplicating this literal "http://192.168.1.10:81/api/" 3 times.(šÌÑ­
+hkotlin:S1192ş"JDefine a constant instead of duplicating this literal "url_api: " 3 times.(¼µúÌùÿÿÿÿ
+ukotlin:S1192§"WDefine a constant instead of duplicating this literal "Fail to get response: " 3 times.(À÷Íƒüÿÿÿÿ
+xkotlin:S1186Õ"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ÔÑ…ÿÿÿÿÿ
+Vkotlin:S6511Û"=Merge chained "if" statements into a single "when" statement.(¬¨Â§

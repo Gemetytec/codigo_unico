@@ -1,0 +1,47 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/drawable/borde_edit_text.xml" value="0.2035" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/drawable/borde_redondo.xml" value="0.2035" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/drawable/borde_redondo_inferior.xml" value="0.1785" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/drawable/borde_redondo_superior.xml" value="0.1785" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/drawable/btn_txt_selector.xml" value="0.1755" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/drawable/cell_shape.xml" value="0.275" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/drawable/circular_item_background_selector.xml" value="0.1755" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/drawable/edittext_background.xml" value="0.1755" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/drawable/ripple_effect.xml" value="0.1755" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/drawable/sombra_pressed_boton_atras.xml" value="0.1755" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/drawable/sombra_pressed_boton_menu.xml" value="0.1755" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/drawable/sombra_pressed_boton_sensillo.xml" value="0.1755" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_SubMenu_Entradas.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_listado_folios_entradas.xml" value="0.25" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_listado_folios_entradas_ubicar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_menu.xml" value="0.5" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_recibir_cod_ubicacion.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_recibir_codigos_producto_hijos.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_recibir_codigos_ubicar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_recibir_entradas.xml" value="0.3522012578616352" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_recibir_entradas_table.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_sub_menu_entradas.xml" value="0.22" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_sub_menu_pedidos.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/activity_ubicar_entradas.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/cabecera_validacion_recep.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/encender_wifi.xml" value="0.67" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/listview_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/listview_row_folios_ubicar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/listview_row_hijos_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/layout/listview_row_product_ubicar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2675" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/CodigoUnico/app/src/main/res/xml/network_security_config.xml" value="0.23802083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

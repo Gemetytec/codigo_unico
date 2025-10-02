@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TableRow
+        android:id="@+id/tabl_product"
+        android:layout_width="380dp"
+        android:layout_height="20dp"
+        android:background="@drawable/borde_redondo_superior"
+        android:translationZ="10dp"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/LblFolio"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Código de barras"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/LblFactura"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="No. impresiones"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/LblOrigen"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Estatus"
+            android:textAlignment="center"
+            android:textSize="14sp" />
+
+
+    </TableRow>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

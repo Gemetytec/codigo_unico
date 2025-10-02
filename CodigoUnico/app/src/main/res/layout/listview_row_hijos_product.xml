@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id = "@+id/relativeLayout1"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:background = "#F8C6C6C6" >
+
+        <TextView
+            android:id = "@+id/CodigoBarras"
+            android:layout_width = "150dp"
+            android:layout_height = "match_parent"
+            android:layout_weight = "1"
+            android:background = "@drawable/cell_shape"
+            android:ellipsize = "end"
+            android:padding = "5dp"
+            android:text = "Código de barras"
+            android:textAlignment="center"
+            android:singleLine = "true" />
+        <!--android:text = "@string/sNo" -->
+
+        <TextView
+            android:id = "@+id/NoImpresiones"
+            android:layout_width = "82dp"
+            android:layout_height = "match_parent"
+            android:layout_weight = "2"
+            android:background = "@drawable/cell_shape"
+            android:ellipsize = "end"
+            android:padding = "5dp"
+            android:text = "No. impresiones"
+            android:textAlignment="center"
+            android:singleLine = "true" />
+
+        <TextView
+            android:id = "@+id/Estatus"
+            android:layout_width = "150dp"
+            android:layout_height = "match_parent"
+            android:layout_weight = "1.5"
+            android:background = "@drawable/cell_shape"
+            android:ellipsize = "end"
+            android:padding = "5dp"
+            android:text = "Estatus"
+            android:textAlignment="center"
+            android:singleLine = "true" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

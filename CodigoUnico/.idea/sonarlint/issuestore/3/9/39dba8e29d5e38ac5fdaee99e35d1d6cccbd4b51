@@ -1,0 +1,36 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸÀ—‚ùÿÿÿÿ8¶¯2J$722efa77-8009-49ab-9790-dddecfe8436d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÒÎ8¶¯2J$0368cecd-a943-45e5-a27c-72c1f1bc7bd6
+€
+java:S1319$"dThe type of "data" should be an interface such as "List" rather than the implementation "ArrayList".(¶î½!8µµı·²2
+^
+java:S4973W"<Strings and Boxed types should be compared using "equals()".(¢âĞ¡ûÿÿÿÿ8¶µı·²2
+^
+java:S4973^"<Strings and Boxed types should be compared using "equals()".(²šÆ‰ÿÿÿÿÿ8·µı·²2
+
+java:S1192_"HDefine a constant instead of duplicating this literal "#2aa204" 4 times.(•šè»úÿÿÿÿ8é¶¯2J$feeea79f-ee1e-4218-b740-26e368182229
+‹
+java:S1192Y"HDefine a constant instead of duplicating this literal "#737373" 4 times.(š”8é¶¯2J$8713f373-479b-42a3-bc8d-f2a3cf309088
+
+java:S14503"[Remove the "lastPosition" field and declare it as a local variable in the relevant methods.(°Şñ±8Ù·¯2J$f331875e-b7e5-430d-b443-876cd7551b31
+Ÿ	java:S116 "XRename this field "CodigoProduct" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÿ’“ÿÿÿÿÿ8õ·¯2J$a4416e34-573f-4810-8d2c-30e2be231541
+¤	java:S116 "]Rename this field "DescripcionProduct" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÿ’“ÿÿÿÿÿ8õ·¯2J$23221448-9f9e-4567-ae79-f6bc72bc281f
+¡	java:S116 "ZRename this field "CantidadProduct" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÿ’“ÿÿÿÿÿ8õ·¯2J$f2314d05-d30c-46cb-9f62-ce5119247567
+¡	java:S116 "ZRename this field "RecibidoProduct" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÿ’“ÿÿÿÿÿ8õ·¯2J$ce3e670f-32e3-435a-9524-9c3392f0f771
+—
+java:S1659 "ODeclare "DescripcionProduct" and all following declarations on a separate line.(ûÿ’“ÿÿÿÿÿ8ı·¯2J$0044220f-1c53-4f97-b0c1-22f68dfe5139
+ƒ	java:S125!"<This block of commented-out lines of code should be removed.(üõ®ºùÿÿÿÿ8…¸¯2J$f15a47c1-98cf-4ddc-873b-4adc30399e40
+€
+java:S18540"=Remove this useless assignment to local variable "dataModel".(æ¸«Õ8­¸¯2J$e952c775-615a-46a4-b912-4520ac47928b
+q
+java:S14810".Remove this unused "dataModel" local variable.(æ¸«Õ8Í¸¯2J$e1b90bde-9b0b-4aaa-9866-be0dd1f92ecd
+}
+java:S1854H":Remove this useless assignment to local variable "result".(åİ¶À8Ù¸¯2J$6819830b-fde0-4d4f-afcc-940ab871d8f7
+}
+java:S1854M":Remove this useless assignment to local variable "result".(åİ¶À8Ù¸¯2J$f8e3d0c0-33e1-4763-948a-8ab588cd2c22
+n
+java:S1481<"+Remove this unused "result" local variable.(à¼âŞ8å¸¯2J$3ab6b88a-a260-4ca9-80fe-48bbf6cc65f7
+s
+java:S1068"+Remove this unused "dataSet" private field.(›Ò¡øÿÿÿÿ8¶¹¯2J$ea2350f4-5448-4a1d-9611-7849eee93705
+s
+java:S10683"0Remove this unused "lastPosition" private field.(°Şñ±8¶¹¯2J$340be903-a0fa-47b7-87f7-006c797840ef
